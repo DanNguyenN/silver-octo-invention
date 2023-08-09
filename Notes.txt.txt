@@ -1,0 +1,31 @@
+Slide 1: 
+Thank you for being here. Today I would like to present my Product Engineering Summer Internship stories.
+Slide 2: 
+Before we started, I have a funny quote about Blue Bear and if you get it you get it. (Introducing myself)
+Slide 3:
+Shark Tank Newsletter about FIDO 2 security key
+Analyze Github copilot for pre-trial analysis, a generative AI tools that help complete code, 
+Help create rough outline Working Agreement between Developer and different team in DAS
+Get accredited in Databricks Lakehouse Fundamental, and learn more about PySpark and Data Engineering
+Help teams implemented SonarQube, a software that ensure Python and Scala code are high quality
+A lot of DAS code are reusable, so we setup meetings with DAS teams and analyze common pattern that could be reuse for an inhouse framework
+Finally, the tablet you see right here. This is our hackathon winning prize from HackNight 2023. We created BearBot, a chat bot ultilizing Microsoft Azure Cognitive Service for context and 
+Slide 4:
+Scrum Agile method and how story point work by helping Full Time Employee working on Jira stories
+I learn the importance of data security, how to keep data complied with HIPPA
+PySpark & Databricks ecosystem and create pipeline for data to flow through cloud
+C1 Innovation Lab, or Customer First. I get to learn how HCSC keep data secure and how their red team work
+Slide 5:
+Supportive Culture: Josh support me a lot through his daily check up, and I got to shadow and learn a lot from DAS FTE with Frank, Neerav, Sam, Charu, Sesank, Nithisha, and Vikram
+People-Focused: I notice that a lot of employee have been staying here for a very long time.
+Empowerment: HCSC help empower us by going out of comfort zone and how they award us for volunteering.
+Slide 6:
+This is beneficial because I got valuable career advice, coaching and networking. 
+Outside daily check in with my manager Josh, which I got a lot of career advice, coaching and networking advice. 
+I got a coffee chat with Christy and I learn how to deal with the imposter syndrome. 
+With Jon and Diana and got advice on navigating career path. 
+With my other DAS manager Atanas and got advice on navigating grad school. 
+With my Senior Director Adolfo and got advice on life goal. 
+The latest coffee chat I got was with my Executive Director Randy and learn the importance of career security and work life balance. 
+Notable mention is that I also briefly got a chat with Mach along with all the PE intern on the fourth floor.
+
